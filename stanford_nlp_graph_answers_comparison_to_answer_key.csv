@@ -1,0 +1,136 @@
+question,correct_answer,graph_rag_answer,is_graph_rag_answer_correct,graph_rag_answer_comment
+test_anatomy-question_000,A,A,True,
+test_anatomy-question_001,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_002,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_003,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_004,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_005,B,C,False,
+test_anatomy-question_006,A,A,True,
+test_anatomy-question_007,B,B,True,
+test_anatomy-question_008,C,A,False,
+test_anatomy-question_009,D,D,True,
+test_anatomy-question_010,D,D,True,
+test_anatomy-question_011,D,,False,
+test_anatomy-question_012,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_013,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_014,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_015,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_016,B,B,True,
+test_anatomy-question_017,D,D,True,
+test_anatomy-question_018,D,D,True,
+test_anatomy-question_019,C,C,True,
+test_anatomy-question_020,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_021,C,C,True,
+test_anatomy-question_022,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_023,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_024,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_025,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_026,C,C,True,
+test_anatomy-question_027,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_028,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_029,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_030,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_031,A,A,True,
+test_anatomy-question_032,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_033,B,D,False,
+test_anatomy-question_034,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_035,C,A,False,
+test_anatomy-question_036,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_037,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_038,D,D,True,
+test_anatomy-question_039,C,C,True,
+test_anatomy-question_040,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_041,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_042,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_043,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_044,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_045,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_046,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_047,C,C,True,
+test_anatomy-question_048,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_049,C,C,True,
+test_anatomy-question_050,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_051,D,D,True,
+test_anatomy-question_052,B,B,True,
+test_anatomy-question_053,B,B,True,
+test_anatomy-question_054,B,B,True,
+test_anatomy-question_055,D,B,False,
+test_anatomy-question_056,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_057,C,C,True,
+test_anatomy-question_058,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_059,D,A,False,
+test_anatomy-question_060,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_061,C,C,True,
+test_anatomy-question_062,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_063,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_064,C,C,True,
+test_anatomy-question_065,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_066,D,D,True,
+test_anatomy-question_067,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_068,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_069,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_070,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_071,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_072,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_073,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_074,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_075,C,C,True,
+test_anatomy-question_076,A,A,True,
+test_anatomy-question_077,A,A,True,
+test_anatomy-question_078,C,C,True,
+test_anatomy-question_079,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_080,B,B,True,
+test_anatomy-question_081,B,B,True,
+test_anatomy-question_082,C,C,True,
+test_anatomy-question_083,B,B,True,
+test_anatomy-question_084,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_085,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_086,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_087,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_088,C,C,True,
+test_anatomy-question_089,A,A,True,
+test_anatomy-question_090,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_091,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_092,B,B,True,
+test_anatomy-question_093,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_094,A,A,True,
+test_anatomy-question_095,C,A,False,
+test_anatomy-question_096,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_097,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_098,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_099,C,C,True,
+test_anatomy-question_100,D,D,True,
+test_anatomy-question_101,D,D,True,
+test_anatomy-question_102,C,C,True,
+test_anatomy-question_103,B,A,False,
+test_anatomy-question_104,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_105,C,C,True,
+test_anatomy-question_106,C,C,True,
+test_anatomy-question_107,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_108,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_109,A,A,True,
+test_anatomy-question_110,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_111,C,C,True,
+test_anatomy-question_112,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_113,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_114,A,A,True,
+test_anatomy-question_115,B,B,True,
+test_anatomy-question_116,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_117,B,B,True,
+test_anatomy-question_118,B,B,True,
+test_anatomy-question_119,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_120,C,C,True,
+test_anatomy-question_121,B,B,True,
+test_anatomy-question_122,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_123,B,B,True,
+test_anatomy-question_124,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_125,B,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_126,C,C,True,
+test_anatomy-question_127,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_128,A,A,True,
+test_anatomy-question_129,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_130,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_131,D,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_132,A,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_133,C,No Answer,False, Did not find enough information to provide an answer
+test_anatomy-question_134,D,No Answer,False, Did not find enough information to provide an answer
