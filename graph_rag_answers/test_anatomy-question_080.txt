@@ -1,0 +1,24 @@
+
+
+
+INFO: Vector Store Args: {
+    "type": "lancedb",
+    "db_uri": "/content/ragtest/output/lancedb",
+    "container_name": "==== REDACTED ====",
+    "overwrite": true
+}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-5.1', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+The mucus-producing glands located on each side of the vaginal opening are the **Bartholin's glands**. These glands, also known as the greater vestibular glands, are small, pea-shaped mucous glands found in women. They are situated posterior to the bulbs of the vestibule on each side of the vaginal opening and their primary function is to secrete mucus to provide lubrication, particularly during sexual arousal [Data: Entities (3686, 3874, 365); Relationships (3387, 3388); Sources (2023, 1524, 353)].
+
+### Explanation of Other Options:
+
+- **A. Adrenal**: The adrenal glands are located on top of the kidneys and are responsible for producing hormones such as adrenaline and cortisol. They are not involved in mucus production or located near the vaginal opening.
+
+- **C. Bulbourethral**: The bulbourethral glands, also known as Cowper's glands, are part of the male reproductive system. They are located within the deep perineal pouch and open into the bulb of the spongy urethra. These glands are homologous to the greater vestibular glands in women but are not located near the vaginal opening [Data: Entities (1401, 5312); Relationships (7649, 7648, 7643); Sources (602, 2023)].
+
+- **D. Corpus luteum**: The corpus luteum is a temporary endocrine structure in female ovaries involved in the production of progesterone, which is crucial for maintaining pregnancy. It is not a gland that produces mucus and is not located near the vaginal opening.
+
+In summary, the correct answer is **B. Bartholin's glands**.

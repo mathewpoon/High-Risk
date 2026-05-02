@@ -1,0 +1,27 @@
+
+
+
+INFO: Vector Store Args: {
+    "type": "lancedb",
+    "db_uri": "/content/ragtest/output/lancedb",
+    "container_name": "==== REDACTED ====",
+    "overwrite": true
+}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-5.1', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+Noradrenaline, also known as norepinephrine, is primarily associated with the sympathetic nervous system. It acts as a neurotransmitter between sympathetic post-ganglionic neurons and their target organs.
+
+### Explanation
+
+**Sympathetic Nervous System:**
+The sympathetic nervous system is part of the autonomic nervous system responsible for the 'fight or flight' response. It prepares the body to respond to stress or danger by increasing heart rate, dilating airways, and mobilizing energy stores, among other effects [Data: Entities (3425); Relationships (3993, 7700, 9943)].
+
+**Role of Noradrenaline:**
+Noradrenaline is released by sympathetic post-ganglionic neurons. It binds to adrenergic receptors on target organs, such as the heart, blood vessels, and lungs, to mediate various physiological responses. This neurotransmitter is crucial for the sympathetic nervous system's ability to regulate cardiovascular functions and other processes [Data: Entities (1561, 3229); Relationships (8015, 8013)].
+
+**Correct Answer:**
+- **D. Sympathetic post-ganglionic neurons and target organs**
+
+In contrast, the parasympathetic nervous system primarily uses acetylcholine as its neurotransmitter for both pre- and post-ganglionic neurons. This system is responsible for 'rest and digest' activities, which are generally opposite to those of the sympathetic system [Data: Sources (1768, 1292)].

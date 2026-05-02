@@ -1,0 +1,30 @@
+
+
+
+INFO: Vector Store Args: {
+    "type": "lancedb",
+    "db_uri": "/content/ragtest/output/lancedb",
+    "container_name": "==== REDACTED ====",
+    "overwrite": true
+}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-5.1', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+### Coronary Arteries: Origin and Filling
+
+The coronary arteries are crucial blood vessels that supply oxygenated blood to the heart muscle. Understanding their origin and the timing of their filling is essential for comprehending their function in the cardiovascular system.
+
+#### Origin of the Coronary Arteries
+
+The coronary arteries arise from the aortic sinuses, which are located in the initial portion of the ascending aorta. Specifically, the right coronary artery originates from the right aortic sinus, and the left coronary artery originates from the left aortic sinus [Data: Entities (1956, 1957); Relationships (5336, 5367, 8708)].
+
+#### Timing of Coronary Artery Filling
+
+The coronary arteries fill with blood during diastole, the phase of the cardiac cycle when the heart relaxes and the aortic valve closes. This timing allows the coronary arteries to receive blood when the pressure in the aorta is high, and the heart muscle is not contracting, which would otherwise compress the coronary vessels and impede blood flow.
+
+### Conclusion
+
+Based on the information provided, the correct answer is:
+
+**D. The coronary arteries arise from the ascending aorta and fill during diastole.**

@@ -1,0 +1,26 @@
+
+
+
+INFO: Vector Store Args: {
+    "type": "lancedb",
+    "db_uri": "/content/ragtest/output/lancedb",
+    "container_name": "==== REDACTED ====",
+    "overwrite": true
+}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-5.1', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+**Macrostomia and Its Developmental Origins**
+
+Macrostomia, a congenital condition characterized by an abnormally wide mouth, results from the failure of fusion between specific embryonic facial processes. Understanding the embryological development of the face is crucial to identifying the correct answer.
+
+**Embryological Development of the Face**
+
+During embryonic development, the face forms through the fusion of several processes. The maxillary processes, which are part of the first pharyngeal arch, play a significant role in forming the upper jaw and parts of the face. The mandibular processes, also part of the first pharyngeal arch, contribute to the formation of the lower jaw. The frontonasal process is involved in forming the forehead, nose, and midline structures of the face.
+
+**Correct Answer: A. Maxillary and Mandibular Processes**
+
+Macrostomia occurs due to the failure of fusion between the maxillary and mandibular processes. This failure results in an abnormally wide mouth, as these processes are responsible for forming the corners of the mouth. The fusion of these processes is essential for the normal development of the oral cavity and facial symmetry.
+
+In summary, the correct answer is **A. maxillary and mandibular processes**. This fusion is crucial for the proper formation of the mouth and surrounding facial structures. Understanding these developmental processes helps in diagnosing and managing congenital conditions like macrostomia.

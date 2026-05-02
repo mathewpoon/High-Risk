@@ -1,0 +1,28 @@
+
+
+
+INFO: Vector Store Args: {
+    "type": "lancedb",
+    "db_uri": "/content/ragtest/output/lancedb",
+    "container_name": "==== REDACTED ====",
+    "overwrite": true
+}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-5.1', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+### Muscles Active During Quiet Inspiration
+
+Quiet inspiration, also known as normal or resting breathing, primarily involves the contraction of specific muscles that increase the volume of the thoracic cavity, allowing air to flow into the lungs. The primary muscles involved in this process are the **external intercostal muscles** and the **diaphragm**.
+
+#### External Intercostal Muscles
+
+The external intercostal muscles play a crucial role in inspiration by elevating the ribs, which increases the transverse and anteroposterior dimensions of the thoracic cavity. This action helps to draw air into the lungs by creating a negative pressure within the thoracic cavity [Data: Entities (5875)].
+
+#### Diaphragm
+
+The diaphragm is the most important muscle for inspiration. It is a dome-shaped musculotendinous structure that separates the thoracic cavity from the abdominal cavity. During inspiration, the diaphragm contracts and flattens, increasing the vertical dimension of the thoracic cavity and further contributing to the negative pressure that facilitates air intake [Data: Entities (413)].
+
+### Conclusion
+
+Based on the roles of these muscles, the correct answer is **B. External intercostal muscles and diaphragm**. The internal intercostal muscles are generally not active during quiet inspiration; they are more involved in forced expiration by depressing the ribs [Data: Entities (5874)]. Therefore, options A, C, and D are incorrect in the context of quiet inspiration.

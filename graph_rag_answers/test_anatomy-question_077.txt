@@ -1,0 +1,28 @@
+
+
+
+INFO: Vector Store Args: {
+    "type": "lancedb",
+    "db_uri": "/content/ragtest/output/lancedb",
+    "container_name": "==== REDACTED ====",
+    "overwrite": true
+}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-5.1', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+### Inhalation of Foreign Bodies: Anatomical Considerations
+
+When a foreign body, such as a fragment of a tooth, is inhaled, it is more likely to enter the right lung. This is due to the anatomical differences between the right and left main bronchi. The right main bronchus is wider and more vertical compared to the left main bronchus, which makes it more susceptible to lodging inhaled foreign bodies [Data: Entities (2004, 1490); Sources (2014)].
+
+### Anatomical Differences Between the Bronchi
+
+The right main bronchus is not only wider but also takes a more vertical course through the root and hilum of the lung. This anatomical configuration facilitates the entry of inhaled objects into the right lung more frequently than the left lung [Data: Entities (2004, 1490); Sources (2014)]. In contrast, the left main bronchus is narrower and less vertical, which reduces the likelihood of foreign bodies entering the left lung.
+
+### Conclusion
+
+Given these anatomical considerations, the correct answer is:
+
+**A. right lung because the right main bronchus is wider and more vertical than the left.**
+
+This anatomical predisposition is a well-documented phenomenon in medical literature and is a critical consideration in cases of inhaled foreign bodies.

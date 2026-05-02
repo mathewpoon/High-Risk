@@ -1,0 +1,34 @@
+
+
+
+INFO: Vector Store Args: {
+    "type": "lancedb",
+    "db_uri": "/content/ragtest/output/lancedb",
+    "container_name": "==== REDACTED ====",
+    "overwrite": true
+}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-5.1', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+### Analysis of the Temporomandibular Joint (TMJ)
+
+The temporomandibular joint (TMJ) is a complex hinge joint that connects the mandible to the temporal bone of the skull. It plays a crucial role in jaw movement, allowing for functions such as chewing and speaking [Data: Entities (11)]. Understanding the structure and innervation of the TMJ is essential for determining which statement is true.
+
+### Articular Disc and Cartilage
+
+The TMJ contains an articular disc, but it is not made of hyaline cartilage. Instead, the articular disc is a fibrocartilaginous structure that provides cushioning and stability within the joint [Data: Entities (901)]. This disc is attached to the fibrous membrane of the joint capsule, which lines the nonarticular surfaces of the joint compartments [Data: Sources (1300)]. Therefore, statement A is incorrect.
+
+The articular surfaces of the TMJ are not covered by hyaline cartilage. Instead, they are typically covered by fibrocartilage, which is more durable and better suited to withstand the mechanical stress of jaw movements [Data: Entities (11)]. Thus, statement B is also incorrect.
+
+### Proprioceptive Information
+
+Proprioceptive information from the TMJ is crucial for coordinating jaw movements. The chorda tympani and deep temporal nerves are not involved in carrying proprioceptive information from the TMJ. The chorda tympani is primarily involved in taste sensation and salivary gland function, while the deep temporal nerves innervate the temporalis muscle [Data: Entities (349, 3739)]. Therefore, statement C is incorrect.
+
+The masseteric and auriculotemporal nerves are indeed involved in proprioceptive functions related to the TMJ. The auriculotemporal nerve, a branch of the mandibular nerve, is known to carry sensory information, including proprioceptive signals, from the TMJ [Data: Entities (947); Relationships (96)]. The masseteric nerve, another branch of the mandibular nerve, also contributes to proprioception in the jaw region [Data: Sources (1560)]. Thus, statement D is correct.
+
+### Conclusion
+
+Based on the analysis of the TMJ's structure and innervation, the true statement is:
+
+**D. Proprioceptive information is carried by the masseteric and auriculotemporal nerves.**
