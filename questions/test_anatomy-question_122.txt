@@ -1,0 +1,6 @@
+Patients with which of the following diseases are treated with injections of vitamin B-12?
+
+A. Bell's palsy
+B. Crohn's disease
+C. Pernicious anemia
+D. Graves' disease
