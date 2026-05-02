@@ -1,0 +1,5 @@
+The correct statement concerning the atrioventricular bundle is:
+
+**B. It is formed of Purkinje fibres and is the only electrical connection between the atria and the ventricles.**
+
+The atrioventricular bundle, also known as the bundle of His, is a crucial component of the cardiac conduction system. It serves as the single electrical connection between the atrial and ventricular myocardium, facilitating the transmission of electrical impulses necessary for coordinated heart contractions [Data: Entities (4905); Relationships (10500)]. The atrioventricular bundle is not formed of autonomic nerve processes but is part of the specialized cardiac muscle fibers, which include Purkinje fibers that are involved in the conduction of electrical impulses within the heart [Data: Entities (5605); Relationships (10503)].

@@ -1,0 +1,13 @@
+The production of male hormones, specifically testosterone, is primarily the function of the testes. The testes are male reproductive organs responsible for producing sperm and hormones, essential for male fertility and secondary sexual characteristics [Data: Entities (300, 1405)]. 
+
+### Explanation
+
+- **Glans Penis**: The glans penis is the sensitive bulbous structure at the distal end of the penis, but it is not involved in hormone production. Its primary role is related to sexual function and sensation [Data: Entities (644)].
+
+- **Prepuce**: The prepuce, or foreskin, is a fold of skin that covers the glans penis. It serves as a protective layer but does not have a role in hormone production [Data: Entities (3416)].
+
+- **Prostate**: The prostate is a gland associated with the male reproductive system, playing a crucial role in the production of seminal fluid. However, it is not responsible for the production of male hormones [Data: Entities (538, 1404)].
+
+- **Testes**: The testes are the primary site for the production of male hormones, including testosterone. They are crucial for the development of male secondary sexual characteristics and reproductive functions [Data: Entities (300, 1405)].
+
+Therefore, the correct answer is **D. Testes**.

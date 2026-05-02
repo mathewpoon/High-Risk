@@ -1,0 +1,13 @@
+The major concentrations of proprioceptive receptors providing information about the position of the temporomandibular joint (TMJ) are primarily located in the capsule and ligaments of the TMJ, as well as in the muscles associated with the joint. 
+
+### TMJ Capsule and Ligaments
+
+The TMJ is a complex joint that includes a fibrous capsule and several ligaments, such as the lateral ligament, sphenomandibular ligament, and stylomandibular ligament, which provide stability and support to the joint [Data: Entities (11, 3306); Relationships (86, 76, 87)]. These structures are rich in proprioceptive receptors, which are essential for detecting changes in joint position and movement.
+
+### Muscles Associated with the TMJ
+
+The muscles of mastication, including the medial and lateral pterygoid muscles, play a crucial role in the movement and function of the TMJ. The medial pterygoid muscle assists in the elevation and protraction of the mandible, while the lateral pterygoid muscle is involved in the protraction and depression of the mandible [Data: Entities (480, 477); Relationships (94, 138, 137, 91)]. Both muscles are innervated by branches of the mandibular nerve, which is part of the trigeminal nerve, and are involved in proprioceptive feedback mechanisms [Data: Relationships (515, 521, 4222)].
+
+### Conclusion
+
+Given the information about the location of proprioceptive receptors, the correct answer is **B. the capsule and ligaments of the TMJ and the lateral pterygoid muscle**. The capsule and ligaments provide structural support and proprioceptive input, while the lateral pterygoid muscle is actively involved in the movement and proprioceptive feedback of the TMJ.

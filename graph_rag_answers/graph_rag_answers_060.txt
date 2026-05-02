@@ -1,0 +1,15 @@
+The correct answer is **D. Pancreas**.
+
+### Explanation
+
+The pancreas is a vital glandular organ located in the abdomen, primarily positioned posterior to the stomach. It plays a crucial role in both the digestive and endocrine systems. One of its key functions is the production of insulin, a hormone essential for the regulation of blood sugar levels. Insulin is secreted by the beta cells of the islets of Langerhans within the pancreas, making it an accessory organ of the gastrointestinal system with significant endocrine functions [Data: Entities (720)].
+
+### Other Options
+
+- **A. Adrenal gland**: The adrenal glands are located above the kidneys and are primarily involved in the production of hormones such as adrenaline and cortisol, which are crucial for stress response and metabolism. They are not involved in insulin secretion [Data: Entities (3229, 4044, 2228)].
+
+- **B. Gallbladder**: The gallbladder is responsible for storing and concentrating bile produced by the liver, which aids in digestion. It does not secrete insulin or any other hormones [Data: Entities (718)].
+
+- **C. Liver**: The liver is a major organ involved in various metabolic processes, including detoxification, protein synthesis, and the production of biochemicals necessary for digestion. While it plays a role in glucose metabolism, it does not secrete insulin [Data: Entities (1856)].
+
+In summary, the pancreas is the organ responsible for insulin secretion, distinguishing it from the other options provided.

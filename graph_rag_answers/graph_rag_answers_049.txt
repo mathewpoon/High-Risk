@@ -1,0 +1,13 @@
+When palpating the anterior midline of a patient's extended neck from the chin to the sternal notch, the structures encountered in order are the hyoid bone, the thyroid cartilage, and then the cricoid cartilage. Therefore, the correct answer is:
+
+**C. hyoid bone, thyroid cartilage, cricoid cartilage.**
+
+### Explanation
+
+1. **Hyoid Bone**: The hyoid bone is located at the anterior midline of the neck, between the chin and the thyroid cartilage. It is a U-shaped bone that serves as an anchor for various muscles and is involved in functions such as swallowing and speech [Data: Entities (8)].
+
+2. **Thyroid Cartilage**: Below the hyoid bone, the thyroid cartilage is the largest cartilage of the larynx and is commonly known as the Adam's apple. It is located at the superior border of the larynx, approximately at the upper margin of the CIII/CIV vertebral level [Data: Entities (436); Relationships (4060)].
+
+3. **Cricoid Cartilage**: The cricoid cartilage is positioned below the thyroid cartilage. It is a ring-shaped structure that encircles the inferior opening of the laryngeal cavity and provides support to the trachea [Data: Entities (435); Relationships (4044)].
+
+This sequence reflects the anatomical arrangement of these structures in the neck, which is important for clinical assessments and procedures involving the airway.

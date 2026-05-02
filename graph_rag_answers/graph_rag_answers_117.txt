@@ -1,0 +1,15 @@
+The structure located at the neck of the bladder and surrounding the urethra in men is the **Prostate**.
+
+### Explanation
+
+The prostate is a gland associated with the male reproductive system, situated in the pelvic cavity immediately anterior to the rectum and above the pelvic floor. It surrounds the prostatic part of the urethra just below the bladder [Data: Entities (1404); Relationships (3374)]. This anatomical positioning allows the prostate to play a crucial role in the male reproductive and urinary systems, as it encircles the urethra and contributes to the production of seminal fluid [Data: Entities (538, 1404); Relationships (7651, 4460)].
+
+### Other Options
+
+- **Epididymis**: This is a tube located at the back of the testicle, responsible for storing and carrying sperm. It connects a testicle to a vas deferens and is not located near the bladder or urethra [Data: Entities (1307)].
+  
+- **Scrotum**: The scrotum is an external pouch of skin that contains the testes. It is not located at the neck of the bladder and does not surround the urethra [Data: Entities (304)].
+  
+- **Seminal Vesicle**: This is an accessory gland in the male reproductive system that secretes fluid contributing to semen. It is located near the bladder but does not surround the urethra [Data: Entities (540); Relationships (1390, 1419)].
+
+Thus, the correct answer is **B. Prostate**.

@@ -1,0 +1,15 @@
+### Articulation of the Sixth Rib
+
+The articulation of the ribs with the vertebrae is a key aspect of thoracic anatomy. Each rib typically articulates with two vertebrae: the vertebra of the same number and the one immediately superior to it. This articulation involves the head of the rib connecting with the vertebral bodies at specific facets or demifacets.
+
+### Correct Answer
+
+**C. The inferior articular demifacet of T5 and the superior articular demifacet of T6.**
+
+### Explanation
+
+The head of the sixth rib articulates with the vertebral column in a manner typical of most ribs. Specifically, it connects with the inferior articular demifacet of the fifth thoracic vertebra (T5) and the superior articular demifacet of the sixth thoracic vertebra (T6). This arrangement allows for the rib to be securely attached to the vertebral column while maintaining the flexibility necessary for respiratory movements.
+
+### Supporting Data
+
+The articulation pattern described is consistent with the typical rib articulation in the thoracic region, where each rib connects to the vertebrae at two points, allowing for a stable yet flexible thoracic cage structure. This is supported by the general anatomical descriptions of rib and vertebrae articulations [Data: Entities (2590); Relationships (9367)].

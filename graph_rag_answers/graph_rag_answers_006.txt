@@ -1,0 +1,15 @@
+The anatomical region of the abdomen that lies just distal to the sternum is the **Epigastric region**.
+
+### Explanation
+
+The epigastric region is centrally located in the upper part of the abdomen, directly below the sternum. It is one of the nine regions of the abdomen used in medical diagnosis and is significant for being the area where pain from the abdominal part of the foregut is often referred [Data: Entities (3469); Relationships (9966)]. This region is crucial in clinical assessments as it can indicate issues related to the stomach, liver, pancreas, and other structures located in this area.
+
+### Other Regions
+
+- **Hypochondriac Region**: This region is located on either side of the epigastric region and is not directly below the sternum. It is associated with the lower ribs and the upper part of the abdomen [Data: Entities (3475)].
+
+- **Hypogastric Region**: Also known as the pubic region, this area is located below the umbilical region and is not near the sternum. It is associated with the lower abdomen and pelvic organs [Data: Entities (3471)].
+
+- **Lumbar Region**: This region is located on the sides of the abdomen, lateral to the umbilical region, and is not directly below the sternum. It is associated with the lower back and the sides of the abdomen [Data: Entities (3476)].
+
+In summary, the epigastric region is the correct answer as it is the anatomical area of the abdomen that lies just distal to the sternum.

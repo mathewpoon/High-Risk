@@ -1,0 +1,13 @@
+### Gastroesophageal Reflux Disease (GERD)
+
+The condition characterized by incompetence of the esophageal sphincter is **Gastroesophageal Reflux Disease (GERD)**. GERD occurs when the lower esophageal sphincter (LES), which acts as a barrier between the stomach and the esophagus, becomes weak or relaxes inappropriately. This allows stomach acid to flow back into the esophagus, leading to symptoms such as heartburn and acid regurgitation. The incompetence of the LES is a primary factor in the pathophysiology of GERD.
+
+### Other Conditions
+
+- **Crohn's Disease**: This is an inflammatory bowel disease that primarily affects the gastrointestinal tract, but it does not involve the incompetence of the esophageal sphincter.
+  
+- **Esophageal Varices**: These are swollen veins in the esophagus that result from portal hypertension, often due to liver cirrhosis. They are not related to the function of the esophageal sphincter [Data: Entities (3571, 5053)].
+
+- **Pyloric Stenosis**: This condition involves the narrowing of the pylorus, which is the opening from the stomach into the small intestine. It is unrelated to the esophageal sphincter and typically affects infants, causing projectile vomiting.
+
+In summary, GERD is the condition associated with the incompetence of the esophageal sphincter, leading to the backflow of stomach contents into the esophagus.

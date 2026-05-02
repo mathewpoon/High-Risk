@@ -1,0 +1,11 @@
+The isthmus of the thyroid gland crosses the respiratory tract at the level of the tracheal rings. Specifically, it is positioned anterior to the upper end of the trachea, which is below the cricoid cartilage and the thyroid cartilage [Data: Entities (49); Relationships (430, 4047); Sources (1642, 394)]. 
+
+### Explanation
+
+The thyroid gland is a large endocrine organ located in the neck, consisting of two lobes connected by an isthmus. This isthmus crosses the anterior surface of the trachea, specifically at the level of the second and third tracheal cartilages, which are part of the tracheal rings [Data: Entities (49); Sources (1642, 394)]. 
+
+### Anatomical Context
+
+The trachea, commonly known as the windpipe, is a flexible tube that connects the larynx to the bronchi of the lungs. It is located immediately anterior to the esophagus and is part of the airway system. The trachea begins at the vertebral level CVI and is continuous with the larynx above [Data: Entities (543); Sources (1271, 1642)]. 
+
+In summary, the correct answer is **D. tracheal rings**.

@@ -1,0 +1,11 @@
+When the foot is abducted, it is moved in the **outward** direction.
+
+### Explanation
+
+Abduction refers to the movement of a body part away from the midline of the body. In the context of the foot, abduction involves moving the foot away from the body's central axis, which means moving it outward. This is in contrast to adduction, which would involve moving the foot inward, towards the midline.
+
+### Anatomical Context
+
+The term "abduction" is commonly used in anatomy to describe the movement of limbs or other body parts. For example, the abductor hallucis muscle in the foot is responsible for abducting the great toe, which means it moves the toe away from the midline of the body [Data: Entities (4823); Relationships (10471)]. Similarly, the abductor digiti minimi muscle abducts the little toe, moving it outward [Data: Entities (2539); Relationships (2972)].
+
+Therefore, the correct answer is **B. Outward**.

@@ -1,0 +1,19 @@
+To determine which statement is true regarding the pupillary light reflex, let's examine each option in the context of the available data and general knowledge.
+
+### A. Its efferent limb is carried in the optic nerve
+
+This statement is incorrect. The optic nerve (cranial nerve II) is responsible for carrying afferent signals, meaning it transmits sensory information from the retina to the brain. In the context of the pupillary light reflex, the optic nerve carries the afferent limb, which is the sensory input from the light stimulus [Data: Entities (1871); Relationships (8531, 8534, 8532)].
+
+### B. It is mediated by the inferior colliculi in the midbrain
+
+This statement is also incorrect. The pupillary light reflex is mediated by the pretectal area and the superior colliculus, not the inferior colliculi. The superior colliculus is involved in visual processing and reflexive eye movements, including the pupillary light reflex [Data: Entities (773); Relationships (5748)].
+
+### C. It is a consensual reflex
+
+This statement is true. The pupillary light reflex is indeed a consensual reflex. When light is shone into one eye, both pupils constrict. This occurs because the sensory input from one eye is processed by both sides of the brain, leading to a bilateral response [Data: Sources (445)].
+
+### D. Its afferent limb is carried in the oculomotor nerve
+
+This statement is incorrect. The afferent limb of the pupillary light reflex is carried by the optic nerve, not the oculomotor nerve. The oculomotor nerve (cranial nerve III) is responsible for the efferent limb, which involves the motor response that causes the pupil to constrict [Data: Entities (518, 1744); Relationships (8318, 6008)].
+
+In conclusion, the correct statement is **C. It is a consensual reflex**.

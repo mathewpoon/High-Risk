@@ -1,0 +1,17 @@
+In the context of palpating arterial pulses on the face, the correct answer is:
+
+**A. facial artery crosses the mandible.**
+
+### Explanation
+
+The facial artery is a major blood vessel that supplies blood to various structures of the face. It is a branch of the external carotid artery and is responsible for delivering blood to regions such as the lips, nose, and parts of the pharynx. One of the notable features of the facial artery is its path across the face, where it can be palpated as it crosses the inferior border of the mandible, adjacent to the anterior margin of the masseter muscle. This location is commonly used to feel the facial pulse [Data: Entities (1898); Relationships (8608); Sources (2457)].
+
+### Other Options
+
+- **B. facial artery crosses the maxilla:** The facial artery does not cross the maxilla in a manner that is typically used for palpating a pulse. Its path is more associated with the mandible and other facial structures.
+
+- **C. superficial temporal artery crosses the maxilla:** The superficial temporal artery is another significant artery of the head, but it does not cross the maxilla. It is known for supplying blood to the scalp and face, particularly the lateral aspect of the scalp, and is associated with the pre-auricular and parotid nodes [Data: Entities (1969)].
+
+- **D. superficial temporal artery crosses the orbital rim:** The superficial temporal artery does not cross the orbital rim. It is more involved with the lateral aspect of the scalp and does not typically serve as a site for pulse palpation in the context of the orbital rim [Data: Entities (1969)].
+
+In summary, the facial artery crossing the mandible is the correct location for palpating a pulse on the face.

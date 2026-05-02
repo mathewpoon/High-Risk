@@ -1,0 +1,15 @@
+The correct answer is **D. Synapse**.
+
+### Explanation
+
+A synapse is the junction between two neurons where an impulse is transmitted from one neuron to another. It is a critical component of the nervous system, allowing for the communication between neurons. When an electrical impulse reaches the end of a neuron, it triggers the release of neurotransmitters, which cross the synaptic gap and bind to receptors on the adjacent neuron, thereby transmitting the signal.
+
+### Additional Information
+
+- **Dendrite**: Dendrites are the branched extensions of a neuron that receive signals from other neurons. They are not the point of transmission but rather the structures that receive incoming signals.
+
+- **Glial cell**: Glial cells are non-neuronal cells in the nervous system that provide support and protection for neurons. They do not directly participate in the transmission of neural impulses.
+
+- **Nerve center**: A nerve center is a group of nerve cells that work together to perform a specific function. It is not a specific point of transmission between neurons.
+
+The synapse is essential for the functioning of the nervous system, enabling complex processes such as thought, sensation, and movement.

@@ -1,0 +1,11 @@
+The correct answer is **B. Epiglottis**.
+
+### Explanation
+
+The epiglottis is a leaf-shaped flap of cartilage located behind the tongue at the top of the larynx. Its primary function is to act as a valve that prevents food and liquid from entering the lower parts of the respiratory tract, specifically the windpipe and lungs, during swallowing. When swallowing occurs, the epiglottis moves downward to close the laryngeal inlet, effectively covering the windpipe and ensuring that food and drink are directed towards the esophagus rather than the trachea [Data: Entities (969); Relationships (4495, 4467)].
+
+### Additional Context
+
+- **Alveoli** are tiny air sacs in the lungs where the exchange of oxygen and carbon dioxide takes place. They do not play a role in closing off the airway during swallowing.
+- The **larynx**, also known as the voice box, is involved in breathing, sound production, and protecting the trachea against food aspiration. However, it is the epiglottis that specifically acts to close the airway during swallowing [Data: Entities (544)].
+- The **uvula** is a small, tear-shaped muscular projection that hangs from the posterior free margin of the soft palate. It plays a role in speech and the movement of the soft palate but does not close the airway during swallowing [Data: Entities (2147)].

@@ -1,0 +1,11 @@
+The primary site for gas exchange in the lungs is the **alveoli**. Alveoli are tiny air sacs located at the end of the respiratory tree, specifically at the terminal ends of the bronchioles. They are surrounded by a network of capillaries, which facilitate the exchange of oxygen and carbon dioxide between the air in the alveoli and the blood in the capillaries. This process is crucial for respiration, as it allows oxygen to enter the bloodstream and carbon dioxide to be expelled from the body.
+
+### Explanation of Other Options
+
+- **Bronchi**: These are the main passageways into the lungs, branching from the trachea into the left and right lungs. While they play a critical role in conducting air to the deeper parts of the lungs, they are not directly involved in gas exchange [Data: Entities (1290); Relationships (7460)].
+
+- **Bronchioles**: These are smaller subdivisions of the bronchi and lead to the alveoli. They play a role in air conduction and regulation of airflow but are not the primary site of gas exchange [Data: Entities (1427); Relationships (7733)].
+
+- **Capillaries**: These are small blood vessels that surround the alveoli. They are essential for the gas exchange process, as they allow oxygen to diffuse into the blood and carbon dioxide to diffuse out. However, they are not the site where gas exchange occurs; rather, they facilitate the exchange process at the alveoli.
+
+In summary, while bronchi, bronchioles, and capillaries are all integral parts of the respiratory system, the alveoli are the structures specifically designed for gas exchange.

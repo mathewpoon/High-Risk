@@ -1,0 +1,15 @@
+In the case of a cerebrovascular accident (CVA) affecting the area of the left internal capsule, which conveys motor neurons to the right leg, the most likely outcome for the patient's leg is spastic paralysis.
+
+### Explanation
+
+The internal capsule is a critical structure in the brain that contains both ascending and descending axons, including those of the corticospinal tract, which are responsible for voluntary motor control. A CVA, or stroke, in this area can disrupt the transmission of motor signals from the brain to the spinal cord, particularly affecting the corticospinal tract fibers.
+
+**Spastic Paralysis**: This condition is characterized by increased muscle tone (hypertonia) and exaggerated reflexes (hyperreflexia) due to the loss of inhibitory control from the brain over the spinal cord reflexes. When the upper motor neurons, such as those in the internal capsule, are damaged, the result is often spastic paralysis. This is because the lower motor neurons, which are still intact, become overactive due to the lack of regulation from the damaged upper motor neurons.
+
+**Flaccid Paralysis**: This occurs when there is damage to the lower motor neurons or the peripheral nerves, leading to a loss of muscle tone and reflexes. Since the CVA affects the internal capsule, which involves upper motor neurons, flaccid paralysis is not the expected outcome.
+
+**Tremor**: Tremors are typically associated with disorders affecting the basal ganglia or cerebellum, rather than the internal capsule. Therefore, a tremor is not a likely result of a CVA in this area.
+
+**Hyporeflexia**: This condition involves reduced reflexes and is usually associated with lower motor neuron lesions or peripheral nerve damage. Since the internal capsule involves upper motor neurons, hyporeflexia is not expected.
+
+In summary, the correct answer is **A. spastic paralysis**, as the CVA in the left internal capsule would likely lead to this condition in the right leg due to the disruption of upper motor neuron pathways.

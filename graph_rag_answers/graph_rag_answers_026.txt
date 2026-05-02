@@ -1,0 +1,15 @@
+The condition characterized by the presence of kidney stones, also known as renal calculi, is **C. Nephrolithiasis**.
+
+### Explanation
+
+**Nephrolithiasis** refers specifically to the formation of stones in the kidney. These stones, also known as renal calculi, are hard deposits made of minerals and salts that form inside the kidneys. They can cause significant pain and discomfort as they pass through the urinary tract, potentially leading to complications such as urinary obstruction and infection [Data: Entities (5472, 2723); Relationships (6418, 9494, 9493)].
+
+### Other Conditions
+
+- **Glomerulonephritis** is a condition involving inflammation of the glomeruli, which are tiny filters in the kidneys. It is not associated with the formation of kidney stones.
+  
+- **Interstitial nephritis** involves inflammation of the kidney's interstitial tissue, which can affect kidney function but does not typically involve stone formation.
+
+- **Polycystic kidney disease** is a genetic disorder characterized by the growth of numerous cysts in the kidneys. While it can lead to kidney damage and other complications, it is not primarily associated with kidney stones.
+
+In summary, nephrolithiasis is the condition directly related to the presence of kidney stones.

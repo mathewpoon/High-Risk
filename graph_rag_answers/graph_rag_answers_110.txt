@@ -1,0 +1,15 @@
+### Infraorbital Nerve Block and Its Effects
+
+The infraorbital nerve is a significant branch of the maxillary nerve (V2), which exits the maxilla through the infraorbital foramen. It is responsible for transmitting sensory information from various facial regions, including the lower eyelid, cheek, side of the nose, and upper lip [Data: Entities (2199); Relationships (7893, 8964, 8965, 8966, 6481)]. 
+
+### Areas Affected by the Infraorbital Nerve Block
+
+A successful infraorbital nerve block typically results in anesthesia of the maxillary anterior teeth, their labial gingivae, and the upper lip. This is because the infraorbital nerve, through its branches, innervates these areas. Specifically, the anterior superior alveolar nerve, which is a branch of the infraorbital nerve, innervates the maxillary anterior teeth and their labial gingivae [Data: Entities (2815, 3687); Relationships (9570, 9568, 9567)]. Additionally, the superior labial branches of the infraorbital nerve supply the upper lip [Data: Entities (5037); Relationships (8966)].
+
+### Conclusion
+
+Based on the anatomical pathways and areas innervated by the infraorbital nerve and its branches, the correct answer is:
+
+**C. maxillary anterior teeth, their labial gingivae and the upper lip.**
+
+The infraorbital nerve block does not typically affect the anterior hard palate, as this area is innervated by the nasopalatine nerve, which is not a branch of the infraorbital nerve [Data: Sources (576)].

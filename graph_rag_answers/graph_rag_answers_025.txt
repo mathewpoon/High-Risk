@@ -1,0 +1,23 @@
+To determine which substance is found in greater quantity in exhaled air, we need to consider the composition of inhaled and exhaled air and the physiological processes involved in respiration.
+
+### Composition of Inhaled and Exhaled Air
+
+Inhaled air primarily consists of nitrogen (approximately 78%), oxygen (about 21%), and trace amounts of carbon dioxide (around 0.04%) and other gases. When air is exhaled, the composition changes due to the gas exchange that occurs in the lungs.
+
+### Gas Exchange in the Lungs
+
+During respiration, oxygen is absorbed into the bloodstream from the alveoli in the lungs, and carbon dioxide, a waste product of metabolism, is expelled from the blood into the alveoli to be exhaled. This process results in a decrease in the oxygen content and an increase in the carbon dioxide content of exhaled air.
+
+### Analysis of Options
+
+- **A. Carbon dioxide**: The concentration of carbon dioxide in exhaled air is significantly higher than in inhaled air. While inhaled air contains about 0.04% carbon dioxide, exhaled air contains approximately 4-5% carbon dioxide. This increase is due to the body's metabolic processes that produce carbon dioxide as a waste product, which is then removed through ventilation [Data: Entities (2479); Relationships (9248)].
+
+- **B. Carbon monoxide**: This is not typically found in significant quantities in either inhaled or exhaled air under normal conditions. It is a toxic gas that can be present in the environment due to pollution but is not a product of normal metabolic processes.
+
+- **C. Nitrogen**: The concentration of nitrogen remains relatively unchanged between inhaled and exhaled air. It is the most abundant gas in both, making up about 78% of the air.
+
+- **D. Oxygen**: The concentration of oxygen decreases in exhaled air compared to inhaled air. Inhaled air contains about 21% oxygen, while exhaled air contains approximately 16% oxygen, as some of it is absorbed by the body for metabolic processes.
+
+### Conclusion
+
+Based on the above analysis, **carbon dioxide (A)** is found in greater quantity in exhaled air compared to inhaled air. This is due to the body's metabolic processes that produce carbon dioxide, which is then expelled during exhalation [Data: Entities (2479); Relationships (9248)].

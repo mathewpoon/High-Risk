@@ -1,0 +1,11 @@
+### Position of Intercostal Nerves Relative to the Ribs
+
+The intercostal nerves are an integral part of the thoracic anatomy, providing both motor and sensory innervation to the thoracic wall. These nerves are the anterior rami of the thoracic spinal nerves and are located in the intercostal spaces between adjacent ribs.
+
+#### Anatomical Position
+
+The intercostal nerves run along the inferior margin of each rib within the neurovascular bundle. This bundle is situated deep to the external and internal intercostal muscle groups. Therefore, the correct answer to the question regarding the position of the intercostal nerve in relation to the rib is:
+
+**C. deep to its inferior border.**
+
+This positioning is crucial for the function and protection of the nerves as they innervate the thoracic wall and related structures [Data: Entities (1374, 1362); Relationships (3560, 3553); Sources (2105, 995, 1975, 2891)].

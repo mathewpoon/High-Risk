@@ -1,0 +1,13 @@
+The correct answer is **C. Spleen**.
+
+### Explanation
+
+The spleen is located in the left upper quadrant of the abdominal cavity, beneath the diaphragm. It is an intraperitoneal organ situated near the anterior surface of the kidney and to the left of the pancreas. The spleen plays a crucial role in filtering blood, producing and removing blood cells, and forming part of the immune system [Data: Entities (721); Relationships (636); Sources (2346)].
+
+### Other Options
+
+- **A. Appendix**: The appendix is located in the right lower quadrant of the abdomen, attached to the cecum, which is part of the large intestine [Data: Entities (1500); Sources (1707)].
+
+- **B. Duodenum**: The duodenum is the first section of the small intestine and is located on the right side of the body, near the pancreas. It is not situated in the left upper quadrant [Data: Entities (34); Relationships (219)].
+
+- **D. Pancreas**: The pancreas is primarily located posterior to the stomach and extends across the posterior abdominal wall from the duodenum to the spleen. While it is in proximity to the left upper quadrant, it is not specifically located beneath the diaphragm in that region [Data: Entities (720); Relationships (5467); Sources (1966)].

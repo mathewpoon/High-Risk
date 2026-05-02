@@ -1,0 +1,5 @@
+In the fetal circulatory system, the ductus arteriosus is a vital blood vessel that connects the pulmonary artery to the aorta. This connection allows blood to bypass the non-functioning fetal lungs, which are not yet used for oxygen exchange, and instead directs it into the systemic circulation. Therefore, the correct answer is:
+
+**C. pulmonary artery to the aorta.**
+
+The ductus arteriosus plays a crucial role in fetal circulation by ensuring that oxygenated blood from the placenta is efficiently distributed throughout the body without passing through the lungs, which are filled with fluid and not yet involved in gas exchange. After birth, the ductus arteriosus typically closes and becomes the ligamentum arteriosum, as the newborn's lungs take over the role of oxygenating the blood [Data: Entities (1480, 2545); Relationships (7692, 7735, 7825)].

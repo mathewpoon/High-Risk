@@ -1,0 +1,19 @@
+The coronal suture is the joint that connects the frontal bone with the parietal bones. Therefore, the correct answer is:
+
+**A. frontal and parietal bones.**
+
+### Explanation
+
+The coronal suture is a significant anatomical feature of the human skull. It is the suture where the frontal bone articulates with the parietal bones. This articulation is crucial for the structural integrity of the skull, as it forms part of the calvaria, which is the upper part of the skull that encloses the brain [Data: Entities (1283, 90, 1282); Relationships (939, 941)].
+
+### Additional Context
+
+The other options provided in the question refer to different sutures or articulations in the skull:
+
+- **B. left and right parietal bones**: This articulation occurs at the sagittal suture, not the coronal suture [Data: Entities (1284); Relationships (7455)].
+  
+- **C. parietal and occipital bones**: These bones articulate at the lambdoid suture [Data: Entities (1285); Relationships (5004, 4995)].
+  
+- **D. parietal, squamous temporal and greater wing of the sphenoid**: This description does not correspond to a single suture but rather involves multiple bones and sutures, including the sphenoparietal suture and the sphenosquamous suture [Data: Entities (12, 46); Relationships (105, 4971)].
+
+Understanding the specific articulations and sutures of the skull is essential for fields such as anatomy, anthropology, and forensic science, as they provide insights into the structural and functional aspects of the human skull.

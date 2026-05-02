@@ -1,0 +1,15 @@
+### Innervation of the Upper Larynx
+
+The mucosa of the upper larynx is primarily innervated by the internal laryngeal nerve. This nerve is a branch of the superior laryngeal nerve, which itself is a branch of the vagus nerve (Cranial Nerve X). The internal laryngeal nerve is responsible for providing sensory innervation to the laryngeal cavity down to the level of the vocal folds [Data: Entities (4481, 5114, 1822); Relationships (7630); Sources (2010, 2524)].
+
+### Role in Reflexes
+
+The internal laryngeal nerve plays a crucial role in the afferent limb of the cough reflex. This reflex is a protective mechanism that helps clear the airway of irritants and secretions. When the mucosa of the larynx is stimulated, the internal laryngeal nerve transmits sensory information to the brain, which then triggers the cough reflex [Data: Entities (4481, 5114); Sources (2010, 2524)].
+
+### Conclusion
+
+Based on the information provided, the correct answer is:
+
+**A. internal laryngeal nerve which is the afferent limb of the cough reflex.**
+
+This choice accurately reflects the role of the internal laryngeal nerve in innervating the mucosa of the upper larynx and its involvement in the cough reflex.

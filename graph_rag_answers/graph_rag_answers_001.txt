@@ -1,0 +1,17 @@
+A dished face profile is often associated with:
+
+**B. a recessive maxilla due to failure of elongation of the cranial base.**
+
+### Explanation
+
+A dished face profile typically refers to a facial appearance where the midface, particularly the maxilla, is underdeveloped or recessed. This condition can result from a failure in the elongation of the cranial base, which affects the forward growth of the maxilla. The maxilla is a crucial bone in the facial skeleton, contributing to the structure of the upper jaw, the nasal cavity, and the orbit [Data: Entities (16, 1110, 5847)].
+
+### Other Options
+
+- **A. a protruding mandible due to reactivation of the condylar cartilage by acromegaly:** This condition would more likely result in a prognathic (protruding) jaw rather than a dished face profile. Acromegaly affects the growth of bones and tissues due to excess growth hormone, often leading to an enlarged mandible rather than a recessed maxilla.
+
+- **C. an enlarged frontal bone due to hydrocephaly:** Hydrocephaly involves the accumulation of cerebrospinal fluid, which can lead to an enlarged head, but it is not typically associated with a dished face profile. Instead, it may cause a more rounded or bulging appearance of the forehead [Data: Entities (556)].
+
+- **D. defective development of the maxillary air sinus:** While the maxillary sinus is located within the maxilla, its development is not directly related to the overall profile of the face. Defective development of the sinus might affect sinus function but is unlikely to cause a dished face profile [Data: Entities (2487)].
+
+In summary, a dished face profile is most commonly associated with a recessive maxilla due to the failure of cranial base elongation, affecting the forward growth of the midface.

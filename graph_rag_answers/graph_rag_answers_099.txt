@@ -1,0 +1,13 @@
+When considering the palpability of an enlarged submandibular salivary gland, it is important to understand the anatomical positioning and characteristics of the gland. The submandibular gland is located beneath the lower jaw, marking the upper boundary of Level I in the lymphatic drainage system. It is a large gland that is hooked around the free posterior margin of the mylohyoid muscle and passes through the aperture [Data: Entities (2439, 2470)].
+
+### Anatomical Considerations
+
+The submandibular gland has both a superficial and a deep part. The larger superficial part is located beneath the mandible, while the smaller deep part extends around the posterior edge of the mylohyoid muscle. This anatomical positioning allows the gland to be accessible both intraorally and extraorally. The ducts of the submandibular gland open into the mouth at the sublingual caruncles, facilitating the secretion of saliva into the oral cavity [Data: Entities (2439, 2208, 2473)].
+
+### Palpability
+
+Given the anatomical location of the submandibular gland, an enlargement of this gland can be palpable both intraorally and extraorally. Intraorally, the gland can be felt by palpating the floor of the mouth, while extraorally, it can be palpated beneath the mandible. This dual accessibility makes option C, "to be palpable both intra- and extraorally," the most accurate choice for an enlarged submandibular salivary gland.
+
+### Conclusion
+
+In conclusion, the anatomical features and positioning of the submandibular gland support the palpability of an enlarged gland both intraorally and extraorally. Therefore, option C is the correct answer based on the anatomical evidence provided [Data: Entities (2439, 2470); Relationships (6204, 7312, 7321, 9220)].

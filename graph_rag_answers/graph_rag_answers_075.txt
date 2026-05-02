@@ -1,0 +1,13 @@
+When a peripheral motor nerve is severed and does not regenerate, the muscles it innervates will typically show signs of **atrophy** after about six months. This is because the lack of nerve supply leads to a reduction in muscle mass due to disuse, as the muscles are no longer receiving the necessary signals to contract and maintain their tone and bulk [Data: Entities (527); Sources (390)].
+
+### Explanation
+
+1. **Atrophy**: This is the most likely outcome in the scenario described. When a muscle loses its nerve supply, it cannot contract, leading to muscle wasting or atrophy over time. Disuse atrophy is a common consequence of nerve damage, as seen in conditions where muscles are immobilized or not used due to nerve injury [Data: Entities (527); Sources (390)].
+
+2. **Flaccid Paralysis**: While flaccid paralysis is an immediate consequence of nerve injury, characterized by a loss of muscle tone and reflexes, it is not the long-term change observed after six months. Instead, the muscle will undergo atrophy due to prolonged inactivity.
+
+3. **Spastic Paralysis**: This occurs due to upper motor neuron lesions, not peripheral nerve injuries. It is characterized by increased muscle tone and reflexes, which is not applicable in this case.
+
+4. **Contracture**: This refers to the permanent shortening of a muscle or joint, often due to fibrosis. It is not a direct result of nerve injury but can occur as a secondary complication if the limb is immobilized for a long period.
+
+In summary, the correct answer is **C. atrophy**, as the muscles will waste away due to the lack of neural stimulation and use.

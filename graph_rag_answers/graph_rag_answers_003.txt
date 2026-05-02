@@ -1,0 +1,27 @@
+To determine which of the listed structures is derived from ectomesenchyme, it's important to understand the origin of ectomesenchyme and the development of each structure.
+
+### Ectomesenchyme
+
+Ectomesenchyme is a type of mesenchyme that is derived from neural crest cells. Neural crest cells are a group of cells that emerge from the embryonic ectoderm layer and migrate to various parts of the embryo, where they differentiate into a diverse range of cell types and structures. Ectomesenchyme is particularly involved in the formation of craniofacial structures, parts of the peripheral nervous system, and some other specialized tissues.
+
+### Analysis of Options
+
+**A. Motor Neurons**
+
+Motor neurons are derived from the neural tube, which is part of the central nervous system development. They originate from the neuroectoderm, not from ectomesenchyme [Data: Entities (2312); Relationships (4827)].
+
+**B. Skeletal Muscles**
+
+Skeletal muscles are primarily derived from the mesoderm, specifically from somites, which are segments of mesodermal tissue. The dermatomyotome, a part of the somite, differentiates into skeletal muscle and dermis [Data: Entities (826, 905); Relationships (5898)].
+
+**C. Melanocytes**
+
+Melanocytes are pigment-producing cells that are indeed derived from neural crest cells. As such, they originate from ectomesenchyme, making this option the correct answer.
+
+**D. Sweat Glands**
+
+Sweat glands are derived from the ectoderm, specifically from the epidermal layer of the skin. They are not derived from ectomesenchyme.
+
+### Conclusion
+
+Based on the developmental origins of each structure, **C. Melanocytes** is the correct answer, as they are derived from ectomesenchyme through the migration and differentiation of neural crest cells.

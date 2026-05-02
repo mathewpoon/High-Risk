@@ -1,0 +1,15 @@
+The cranial nerve related to the sense of smell is the **Olfactory nerve**.
+
+### Explanation
+
+The olfactory nerve, also known as cranial nerve I, is specifically responsible for the special sensory function of smell. It is composed of axons from receptors located in the olfactory epithelium at the top of each nasal cavity. These small nerve fibers pass from the nasal mucosa to the olfactory bulb, transmitting smell information from the nasal cavity to the brain [Data: Entities (2905, 2350)].
+
+### Other Options
+
+- **Abducens (Cranial Nerve VI):** This nerve is responsible for controlling the lateral rectus muscle of the eye, which is essential for lateral eye movement. It does not have any role in the sense of smell [Data: Entities (1739, 1182, 4911)].
+
+- **Hypoglossal (Cranial Nerve XII):** This nerve is primarily responsible for motor control of the tongue and does not contribute to the sense of smell [Data: Entities (4916, 1216, 1108)].
+
+- **Trochlear (Cranial Nerve IV):** This nerve innervates the superior oblique muscle of the eye, playing a role in eye movement, but it is not involved in the sense of smell [Data: Entities (846, 1743)].
+
+Thus, the correct answer is **C. Olfactory**.
