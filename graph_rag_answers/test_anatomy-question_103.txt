@@ -1,0 +1,34 @@
+
+
+
+INFO: Vector Store Args: {
+    "type": "lancedb",
+    "db_uri": "/content/ragtest/output/lancedb",
+    "container_name": "==== REDACTED ====",
+    "overwrite": true
+}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-5.1', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+Endochondral ossification is a process by which bone tissue is created through the replacement of cartilage with bone. This process is typical for the development of long bones and many other bones in the body.
+
+### Ribs
+
+The ribs are long, curved bones that form part of the thoracic cage. They develop through endochondral ossification, where the cartilage is gradually replaced by bone tissue during development [Data: Entities (3822, 160)].
+
+### Sternum
+
+The sternum, or breastbone, is a flat bone located in the central part of the chest. It is primarily formed through endochondral ossification, although parts of it may also develop through intramembranous ossification [Data: Entities (2546)].
+
+### Clavicle
+
+The clavicle, or collarbone, is unique in that it develops through both endochondral and intramembranous ossification. The medial end of the clavicle undergoes endochondral ossification, while the lateral end is formed through intramembranous ossification [Data: Entities (153)].
+
+### Vertebrae
+
+The vertebrae are the series of bones that make up the vertebral column. They develop through endochondral ossification, which is typical for the formation of the vertebral bodies and other parts of the vertebrae [Data: Entities (2082, 2377)].
+
+### Conclusion
+
+Based on the information provided, the correct answer is **D. The ribs, sternum, clavicle, and vertebrae**. All these bones undergo endochondral ossification, although the clavicle also involves intramembranous ossification for part of its development.

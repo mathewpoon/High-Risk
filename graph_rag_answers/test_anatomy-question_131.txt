@@ -1,0 +1,28 @@
+
+
+
+INFO: Vector Store Args: {
+    "type": "lancedb",
+    "db_uri": "/content/ragtest/output/lancedb",
+    "container_name": "==== REDACTED ====",
+    "overwrite": true
+}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-5.1', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+The master gland of the endocrine system is the **D. Pituitary gland**. 
+
+### Overview of the Pituitary Gland
+
+The pituitary gland, often referred to as the "master gland," plays a crucial role in regulating various bodily functions by controlling the activity of other endocrine glands. It is located at the base of the brain, within the cranial cavity, and is connected to the hypothalamus by the infundibulum [Data: Entities (601)]. The pituitary gland is responsible for producing and releasing a variety of hormones essential for bodily functions, including prolactin, which is necessary for the production of breast milk postpartum [Data: Entities (601); Relationships (4774)].
+
+### Function and Importance
+
+The pituitary gland is divided into two main parts: the anterior pituitary and the posterior pituitary. The anterior pituitary, also known as the adenohypophysis, produces several key hormones such as adrenocorticotropic hormone and luteinizing hormone, among others [Data: Entities (1569); Relationships (4780)]. The posterior pituitary releases hormones synthesized by the supraoptic and paraventricular nuclei into the circulatory system [Data: Entities (3547); Relationships (1857)].
+
+### Connection with the Hypothalamus
+
+The hypothalamus, a crucial brain region, regulates hormone synthesis and release by interacting with the pituitary gland. This connection is facilitated through the infundibulum and the hypophysial portal system, allowing the hypothalamus to efficiently control the release of hormones from the pituitary gland [Data: Entities (171); Relationships (1852, 4770)].
+
+In summary, the pituitary gland's central role in hormone regulation and its influence over other endocrine glands underscore its designation as the master gland of the endocrine system.

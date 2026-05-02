@@ -1,0 +1,28 @@
+
+
+
+INFO: Vector Store Args: {
+    "type": "lancedb",
+    "db_uri": "/content/ragtest/output/lancedb",
+    "container_name": "==== REDACTED ====",
+    "overwrite": true
+}
+creating llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_chat", 'model': 'gpt-5.1', 'max_tokens': 4000, 'temperature': 0.0, 'top_p': 1.0, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': True, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+creating embedding llm client with {'api_key': 'REDACTED,len=164', 'type': "openai_embedding", 'model': 'text-embedding-3-small', 'max_tokens': 4000, 'temperature': 0, 'top_p': 1, 'n': 1, 'request_timeout': 180.0, 'api_base': None, 'api_version': None, 'organization': None, 'proxy': None, 'audience': None, 'deployment_name': None, 'model_supports_json': None, 'tokens_per_minute': 0, 'requests_per_minute': 0, 'max_retries': 10, 'max_retry_wait': 10.0, 'sleep_on_rate_limit_recommendation': True, 'concurrent_requests': 25}
+
+SUCCESS: Local Search Response:
+The cranial nerve related to the sense of smell is the **Olfactory nerve**.
+
+### Explanation
+
+The olfactory nerve, also known as cranial nerve I, is specifically responsible for the special sensory function of smell. It is composed of axons from receptors located in the olfactory epithelium at the top of each nasal cavity. These small nerve fibers pass from the nasal mucosa to the olfactory bulb, transmitting smell information from the nasal cavity to the brain [Data: Entities (2905, 2350)].
+
+### Other Options
+
+- **Abducens (Cranial Nerve VI):** This nerve is responsible for controlling the lateral rectus muscle of the eye, which is essential for lateral eye movement. It does not have any role in the sense of smell [Data: Entities (1739, 1182, 4911)].
+
+- **Hypoglossal (Cranial Nerve XII):** This nerve is primarily responsible for motor control of the tongue and does not contribute to the sense of smell [Data: Entities (4916, 1216, 1108)].
+
+- **Trochlear (Cranial Nerve IV):** This nerve innervates the superior oblique muscle of the eye, playing a role in eye movement, but it is not involved in the sense of smell [Data: Entities (846, 1743)].
+
+Thus, the correct answer is **C. Olfactory**.
